@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My first BookingApp</string>
+    <string name="booking_app">Booking App</string>
+    <string name="login_text">Login!</string>
+    <string name="register_text">Register!</string>
+    <string name="powered_by_text">Powered by Eusebiu Iacob</string>
+    <string name="app_year">"2024"</string>
 </resources>
